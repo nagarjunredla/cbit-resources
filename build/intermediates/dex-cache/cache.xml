@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/nagarjun/AndroidStudioProjects/CBITResources/app/build/intermediates/pre-dexed/debug/classes-187f0230db2f314fa40006fd8c3dbb8895f8f776.jar"
+        jar="/Users/nagarjun/AndroidStudioProjects/CBITResources/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/nagarjun/AndroidStudioProjects/CBITResources/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-28b6183f6668f571c4b5d694bfeaa08e786b08f1.jar"
+        jar="/Users/nagarjun/Nagarjun/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/nagarjun/AndroidStudioProjects/CBITResources/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-c35f2df420fd84ad22a2037f771670fd281d6ca7.jar"
+        jar="/Users/nagarjun/AndroidStudioProjects/CBITResources/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
